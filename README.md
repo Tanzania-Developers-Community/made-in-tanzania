@@ -11,4 +11,14 @@
 
 ## <a name="A"> </a>A
 
-<!-- ## <a name="B"> </a>B -->
+<!-- 
+## <a name="B"> </a>B 
+- [Project Name](https://github.com/username/projectname) - Some description. **By [@username](https://twitter.com/username)**
+
+-->
+
+## <a name="D"> </a>D
+- [Django RESTQL](https://github.com/yezyilomo/django-restql) - Django RESTQL is a python library that allows you to turn your API made with Django REST Framework(DRF) into a GraphQL like API. By [@yezyilomo](https://twitter.com/yezyilomo)
+
+## <a name="S"> </a>S
+- [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
