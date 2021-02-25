@@ -26,4 +26,25 @@ To add a new project to the collection, please ensure they meet the following re
   [![Made in Tanzania](https://img.shields.io/badge/made%20in-tanzania-008751.svg?style=flat-square)](https://github.com/Tanzania-Developers-Community/made-in-tanzania)
   ````
 
-More requirements may be added as time goes on.
+<!-- More requirements may be added as time goes on. -->
+
+
+# How to Contributing Guidelines
+
+- Check if the project adheres the requirement given above.
+
+- Fork this repo
+
+- Use the sample provided below for as a reference.
+
+``` 
+## <a name="B"> </a>B 
+- [Project Name](https://github.com/username/projectname) - Some description. **By [@username](https://twitter.com/username)**
+```
+
+- Add a single project in one pull request as it will allow for easier review.
+
+- Pull request title should include project name and project section.
+  - Example: `[Project Name] -> [S]`
+
+
