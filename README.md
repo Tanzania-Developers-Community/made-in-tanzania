@@ -20,5 +20,8 @@
 ## <a name="D"> </a>D
 - [Django RESTQL](https://github.com/yezyilomo/django-restql) - Django RESTQL is a python library that allows you to turn your API made with Django REST Framework(DRF) into a GraphQL like API. By [@yezyilomo](https://twitter.com/yezyilomo)
 
+- [Djangoroku](https://github.com/maen08/djangoroku) - Djangoroku is the Python library that helps to deploy Django application on Heroku more easily and fast. By [@maen08](https://twitter.com/maentechie)
+
+
 ## <a name="S"> </a>S
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
