@@ -22,6 +22,10 @@
 
 - [Djangoroku](https://github.com/maen08/djangoroku) - Djangoroku is the Python library that helps to deploy Django application on Heroku more easily and fast. By [@maen08](https://twitter.com/maentechie)
 
+## <a name="R"> </a>R 
+- [rGeocode](https://github.com/bentesha/rgeocode) - A self-hosted reverse-geocode server for Tanzania and Kenya. **By [@bentesha](https://github.com/bentesha)**
+
 
 ## <a name="S"> </a>S
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
+
