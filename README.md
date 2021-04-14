@@ -28,15 +28,9 @@
 ## <a name="P"></a>P
 - [Pypesa](https://github.com/Kalebu/pypesa) - Python wrapper on Mpesa public API for mobile Payment Integration made **by** [kalebu Jordan](https://github.com/Kalebu)
 
-
-## <a name="P"></a>P
 - [Pysimilar](https://github.com/Kalebu/pysimilar) - A python libaray for computing similarity between texts/strings made **by** [kalebu Jordan](https://github.com/Kalebu)
 
-
-## <a name="P"></a>P
 - [Pyswahili](https://github.com/Kalebu/pyswahili) - A swahili version of Python Programming language made **by** [kalebu Jordan](https://github.com/Kalebu)
-
-
 
 ## <a name="R"> </a>R 
 - [rGeocode](https://github.com/bentesha/rgeocode) - A self-hosted reverse-geocode server for Tanzania and Kenya. **By [@bentesha](https://github.com/bentesha)**
