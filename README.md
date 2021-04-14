@@ -22,6 +22,22 @@
 
 - [Djangoroku](https://github.com/maen08/djangoroku) - Djangoroku is the Python library that helps to deploy Django application on Heroku more easily and fast. By [@maen08](https://twitter.com/maentechie)
 
+## <a name="M"></a>M
+- [Mtaa](https://github.com/Kalebu/mtaa) -  A package consisting of all Tanzania locations from region to streets in a easy accessible way made **by** [kalebu Jordan](https://github.com/Kalebu)
+
+## <a name="P"></a>P
+- [Pypesa](https://github.com/Kalebu/pypesa) - Python wrapper on Mpesa public API for mobile Payment Integration made **by** [kalebu Jordan](https://github.com/Kalebu)
+
+
+## <a name="P"></a>P
+- [Pysimilar](https://github.com/Kalebu/pysimilar) - A python libaray for computing similarity between texts/strings made **by** [kalebu Jordan](https://github.com/Kalebu)
+
+
+## <a name="P"></a>P
+- [Pyswahili](https://github.com/Kalebu/pyswahili) - A swahili version of Python Programming language made **by** [kalebu Jordan](https://github.com/Kalebu)
+
+
+
 ## <a name="R"> </a>R 
 - [rGeocode](https://github.com/bentesha/rgeocode) - A self-hosted reverse-geocode server for Tanzania and Kenya. **By [@bentesha](https://github.com/bentesha)**
 
