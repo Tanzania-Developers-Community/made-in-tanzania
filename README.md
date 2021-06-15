@@ -47,3 +47,7 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 ## <a name="S"> </a>S
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
 
+
+## <a name="T"> </a>T
+- [Tanzania Locations Database](https://github.com/HackEAC/tanzania-locations-db) -  A database of regions, wards and other locations in Tanzania  **By [@HackEAC](https://github.com/HackEAC)**
+
