@@ -33,6 +33,9 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 ## <a name="M"></a>M
 - [Mtaa](https://github.com/Kalebu/mtaa) -  A package consisting of all Tanzania locations from region to streets in a easy accessible way made **by** [kalebu Jordan](https://github.com/Kalebu)
 
+## <a name="N"> </a>N 
+- [Nameland](https://github.com/gxvr/Business-Name-Generator) - Business name generator like namelix.com with namecheap domain registration. **By [@gxvr](https://twitter.com/gxvr)**
+
 ## <a name="P"></a>P
 - [Pypesa](https://github.com/Kalebu/pypesa) - Python wrapper on Mpesa public API for mobile Payment Integration made **by** [kalebu Jordan](https://github.com/Kalebu)
 
