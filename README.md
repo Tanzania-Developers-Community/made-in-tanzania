@@ -45,6 +45,8 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 
 
 ## <a name="S"> </a>S
+- [State-Pool](https://github.com/yezyilomo/state-pool) - React state management library based on global variables and react hooks. **By [@yezyilomo](https://github.com/yezyilomo)**
+
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
 
 
