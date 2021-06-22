@@ -36,6 +36,9 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 ## <a name="N"> </a>N 
 - [Nameland](https://github.com/gxvr/Business-Name-Generator) - Business name generator like namelix.com with namecheap domain registration. **By [@gxvr](https://twitter.com/gxvr)**
 
+## <a name="O"></a>O
+- [Odoo REST API](https://github.com/yezyilomo/odoo-rest-api) -  Module which expose Odoo ERP as a REST API. **By [@yezyilomo](https://github.com/yezyilomo)**
+
 ## <a name="P"></a>P
 - [Pypesa](https://github.com/Kalebu/pypesa) - Python wrapper on Mpesa public API for mobile Payment Integration made **by** [kalebu Jordan](https://github.com/Kalebu)
 
@@ -48,6 +51,8 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 
 
 ## <a name="S"> </a>S
+- [State-Pool](https://github.com/yezyilomo/state-pool) - React state management library based on global variables and react hooks. **By [@yezyilomo](https://github.com/yezyilomo)**
+
 - [Swahili based programming languages](https://github.com/ibnsultan/swahili-programming-language) -  Swahili programming Langage **By [@ibnsultan](https://github.com/ibnsultan)**
 
 
