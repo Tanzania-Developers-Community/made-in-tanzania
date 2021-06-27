@@ -27,6 +27,11 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 
 - [Djangoroku](https://github.com/maen08/djangoroku) - Djangoroku is the Python library that helps to deploy Django application on Heroku more easily and fast. By [@maen08](https://twitter.com/maentechie)
 
+## <a name="F"> </a>F
+- [Flutter Getx Starter](https://github.com/codeblocktz/Codeblock-Flutter-Getx-Starter) - A starter kit for beginner learns with Getx pattern, and GetStorage to architect a flutter project. **by** [@codeblocktz](https://github.com/codeblocktz)
+
+- [Flutter SMS Gateway](https://github.com/codeblocktz/sms_gateway) - Flutter sms gateway is an android app to send sms. It supports sending delivery reports **by** [@codeblocktz](https://github.com/codeblocktz)
+
 ## <a name="L"></a>L
 - [Later](https://github.com/aSoft-Ltd/later) -  A Kotlin Multiplatform promise based api that supports running tasks on the background **by** [@andylamax](https://github.com/andylamax)
 
