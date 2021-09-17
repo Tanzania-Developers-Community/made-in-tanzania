@@ -63,5 +63,5 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 
 ## <a name="T"> </a>T
 - [Tanzania Locations Database](https://github.com/HackEAC/tanzania-locations-db) -  A database of regions, wards and other locations in Tanzania  **By [@HackEAC](https://github.com/HackEAC)**
-- [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) -  A database of regions, wards and other locations in Tanzania  **By [@Luqman Tuke](https://github.com/luqmantuke)**
+- [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) -  This is a tour/travel Webapp made with Python Django and Bootstrap4  **By [@Luqman Tuke](https://github.com/luqmantuke)**
 
