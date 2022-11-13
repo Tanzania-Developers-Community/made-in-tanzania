@@ -32,6 +32,9 @@ If you're not inclined to make PRs you can tweet me at [@alphaolomi!](https://tw
 
 - [Flutter SMS Gateway](https://github.com/codeblocktz/sms_gateway) - Flutter sms gateway is an android app to send sms. It supports sending delivery reports **by** [@codeblocktz](https://github.com/codeblocktz)
 
+## <a name="G"> </a>G
+- [GoPesa](https://github.com/Golang-Tanzania/GoPesa) - Golang bindings for the Mpesa Payment API by [@Hopertz](https://github.com/Hopertz) and [@Mojo](https://github.com/AvicennaJr) 
+
 ## <a name="L"></a>L
 - [Later](https://github.com/aSoft-Ltd/later) -  A Kotlin Multiplatform promise based api that supports running tasks on the background **by** [@andylamax](https://github.com/andylamax)
 
