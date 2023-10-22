@@ -2,6 +2,13 @@
 title: ""
 ---
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+  body {
+    font-family: 'JetBrains Mono', monospace;
+  }
+</style>
+
 <img src="./img/banner/header.png" style="width: 100%;">
 
 <br>
