@@ -10,9 +10,7 @@ Your assistance in expanding our project repository is _greatly_ appreciated. We
 
 If you prefer not to initiate Pull Requests but would like to engage with us, you are welcome to reach out via 𝕏 by mentioning [@AlphaOlomi](https://twitter.com/AlphaOlomi). Your support and collaboration are invaluable to us. Thank you for your involvement in enhancing our project repository.
 
-</p>
-
-<p align="center" style="font-size: 1.2em; display: flex; justify-content: center; align-items: center; gap: 0.5em;">
+<p align="center" style="font-size: 1.2em; display: flex; justify-content: center; align-items: center; gap: 1em; margin: 0 20px;">
   <a href="#A"><strong>A</strong></a>
   <a href="#B"><strong>B</strong></a>
   <a href="#C"><strong>C</strong></a>
