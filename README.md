@@ -2,7 +2,9 @@
 title: ""
 ---
 
-<img src="./img/banner/made-in-tz.png" style="width: 100%;">
+<img src="./img/banner/header.png" style="width: 100%;">
+
+<br>
 
 Your assistance in expanding our project repository is _greatly_ appreciated. We encourage your contribution through **Pull Requests** to include additional projects. We kindly request that you review and adhere to our comprehensive [contribution guidelines](https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/contributing.md) to ensure a _smooth_ integration process.
 
@@ -88,3 +90,8 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 
 - [Tanzania Locations Database](https://github.com/HackEAC/tanzania-locations-db) - 🌍 A database of regions, wards, and other locations in Tanzania. **By [@HackEAC](https://github.com/HackEAC)**
 - [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) - ✈️ This is a tour/travel Webapp made with Python Django and Bootstrap4. **By [@Luqman Tuke](https://github.com/luqmantuke)**
+
+<br>
+<br>
+
+<img src="./img/banner/footer.png" style="width: 100%;">
