@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 <img src="./img/banner/made-in-tz.png" style="width: 100%;">
 
 Your assistance in expanding our project repository is _greatly_ appreciated. We encourage your contribution through **Pull Requests** to include additional projects. We kindly request that you review and adhere to our comprehensive [contribution guidelines](https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/contributing.md) to ensure a _smooth_ integration process.
@@ -6,11 +10,34 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 
 </p>
 
-<div align="center">
-
-[**A**](#A) | [**B**](#B) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**G**](#G) | [**H**](#H) | [**I**](#I) | [**J**](#J) | [**K**](#K) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**Q**](#Q) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**V**](#V) | [**W**](#W) | [**X**](#X) | [**Y**](#Y) | [**Z**](#Z)
-
-</div>
+<p align="center" style="font-size: 1.2em; display: flex; justify-content: center; align-items: center; gap: 0.5em;">
+  <a href="#A"><strong>A</strong></a>
+  <a href="#B"><strong>B</strong></a>
+  <a href="#C"><strong>C</strong></a>
+  <a href="#D"><strong>D</strong></a>
+  <a href="#E"><strong>E</strong></a>
+  <a href="#F"><strong>F</strong></a>
+  <a href="#G"><strong>G</strong></a>
+  <a href="#H"><strong>H</strong></a>
+  <a href="#I"><strong>I</strong></a>
+  <a href="#J"><strong>J</strong></a>
+  <a href="#K"><strong>K</strong></a>
+  <a href="#L"><strong>L</strong></a>
+  <a href="#M"><strong>M</strong></a>
+  <a href="#N"><strong>N</strong></a>
+  <a href="#O"><strong>O</strong></a>
+  <a href="#P"><strong>P</strong></a>
+  <a href="#Q"><strong>Q</strong></a>
+  <a href="#R"><strong>R</strong></a>
+  <a href="#S"><strong>S</strong></a>
+  <a href="#T"><strong>T</strong></a>
+  <a href="#U"><strong>U</strong></a>
+  <a href="#V"><strong>V</strong></a>
+  <a href="#W"><strong>W</strong></a>
+  <a href="#X"><strong>X</strong></a>
+  <a href="#Y"><strong>Y</strong></a>
+  <a href="#Z"><strong>Z</strong></a>
+</p>
 
 ## <a name="D"> </a>D
 
