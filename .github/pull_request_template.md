@@ -1,7 +1,11 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Project Name] -> [Project Alphabet]`
+<!-- 
+**Please delete this section before submitting**, 
 
-# Flutter facility booking app 
+_Pull request TITLE should look like this_: `[Project Name] -> [Project Alphabet]` 
+-->
 
-This is a flutter app that allows residents to book facilities at their apartment building and communicate with the management office.
+# Project Name - Edit this line
 
-Github Link: https://github.com/godopetza/facilitybookingappflutter
+Edit this line with a description about new added project.
+
+Github Link: github.com/username/projectname
