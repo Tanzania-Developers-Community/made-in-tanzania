@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap");
+
+:root {
+  font-family: "JetBrains Mono", monospace;
+}
+
+.banner {
+  width: 100%;
+}
+
+.nav-menu {
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  margin: 0 20px;
+}

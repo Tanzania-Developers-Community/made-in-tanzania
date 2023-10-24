@@ -1,16 +1,45 @@
-<img src="./img/banner/made-in-tz.png" style="width: 100%;">
+---
+title: ""
+---
+
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+
+<img src="./img/banner/header.png" class="banner">
+
+<br>
 
 Your assistance in expanding our project repository is _greatly_ appreciated. We encourage your contribution through **Pull Requests** to include additional projects. We kindly request that you review and adhere to our comprehensive [contribution guidelines](https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/contributing.md) to ensure a _smooth_ integration process.
 
 If you prefer not to initiate Pull Requests but would like to engage with us, you are welcome to reach out via 𝕏 by mentioning [@AlphaOlomi](https://twitter.com/AlphaOlomi). Your support and collaboration are invaluable to us. Thank you for your involvement in enhancing our project repository.
 
+<p align="center" class="nav-menu">
+  <a href="#A"><strong>A</strong></a>
+  <a href="#B"><strong>B</strong></a>
+  <a href="#C"><strong>C</strong></a>
+  <a href="#D"><strong>D</strong></a>
+  <a href="#E"><strong>E</strong></a>
+  <a href="#F"><strong>F</strong></a>
+  <a href="#G"><strong>G</strong></a>
+  <a href="#H"><strong>H</strong></a>
+  <a href="#I"><strong>I</strong></a>
+  <a href="#J"><strong>J</strong></a>
+  <a href="#K"><strong>K</strong></a>
+  <a href="#L"><strong>L</strong></a>
+  <a href="#M"><strong>M</strong></a>
+  <a href="#N"><strong>N</strong></a>
+  <a href="#O"><strong>O</strong></a>
+  <a href="#P"><strong>P</strong></a>
+  <a href="#Q"><strong>Q</strong></a>
+  <a href="#R"><strong>R</strong></a>
+  <a href="#S"><strong>S</strong></a>
+  <a href="#T"><strong>T</strong></a>
+  <a href="#U"><strong>U</strong></a>
+  <a href="#V"><strong>V</strong></a>
+  <a href="#W"><strong>W</strong></a>
+  <a href="#X"><strong>X</strong></a>
+  <a href="#Y"><strong>Y</strong></a>
+  <a href="#Z"><strong>Z</strong></a>
 </p>
-
-<div align="center">
-
-[**A**](#A) | [**B**](#B) | [**C**](#C) | [**D**](#D) | [**E**](#E) | [**F**](#F) | [**G**](#G) | [**H**](#H) | [**I**](#I) | [**J**](#J) | [**K**](#K) | [**L**](#L) | [**M**](#M) | [**N**](#N) | [**O**](#O) | [**P**](#P) | [**Q**](#Q) | [**R**](#R) | [**S**](#S) | [**T**](#T) | [**U**](#U) | [**V**](#V) | [**W**](#W) | [**X**](#X) | [**Y**](#Y) | [**Z**](#Z)
-
-</div>
 
 ## <a name="D"> </a>D
 
@@ -61,3 +90,8 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 
 - [Tanzania Locations Database](https://github.com/HackEAC/tanzania-locations-db) - 🌍 A database of regions, wards, and other locations in Tanzania. **By [@HackEAC](https://github.com/HackEAC)**
 - [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) - ✈️ This is a tour/travel Webapp made with Python Django and Bootstrap4. **By [@Luqman Tuke](https://github.com/luqmantuke)**
+
+<br>
+<br>
+
+<img src="./img/banner/footer.png" class="banner">
