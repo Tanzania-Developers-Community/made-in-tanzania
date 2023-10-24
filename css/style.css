@@ -15,4 +15,5 @@
   align-items: center;
   gap: 1em;
   margin: 0 20px;
+  flex-wrap: wrap;
 }
