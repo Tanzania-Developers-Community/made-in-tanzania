@@ -39,6 +39,9 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
   <a href="#Z"><strong>Z</strong></a>
 </p>
 
+## <a name="A"> </a>A
+- [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
+
 ## <a name="D"> </a>D
 
 - [Django RESTQL](https://github.com/yezyilomo/django-restql) - 🐍 Django RESTQL is a python library that allows you to turn your API made with Django REST Framework(DRF) into a GraphQL like API. **By [@yezyilomo](https://twitter.com/yezyilomo)**
@@ -75,6 +78,7 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 - [Pypesa](https://github.com/Kalebu/pypesa) - 💳 Python wrapper for the Mpesa public API for mobile Payment Integration. **By [Kalebu Jordan](https://github.com/Kalebu)**
 - [Pysimilar](https://github.com/Kalebu/pysimilar) - 🔗 A Python library for computing similarity between texts/strings. **By [Kalebu Jordan](https://github.com/Kalebu)**
 - [Pyswahili](https://github.com/Kalebu/pyswahili) - 🇹🇿 A Swahili version of Python Programming language. **By [Kalebu Jordan](https://github.com/Kalebu)**
+- [Param-Ninja](https://github.com/urchinsec/param-ninja) - 🖥️ An automated penetration testing tool , that automates web vulnerabilities testing upon a given URL with an endpoint parameter. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 ## <a name="R"> </a>R
 
@@ -89,6 +93,12 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 
 - [Tanzania Locations Database](https://github.com/HackEAC/tanzania-locations-db) - 🌍 A database of regions, wards, and other locations in Tanzania. **By [@HackEAC](https://github.com/HackEAC)**
 - [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) - ✈️ This is a tour/travel Webapp made with Python Django and Bootstrap4. **By [@Luqman Tuke](https://github.com/luqmantuke)**
+
+## <a name="U"> </a>U
+- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)
+
+## <a name="W"> </a>W
+- [Web3 Storage IPFS Python API](https://github.com/tahaafarooq/web3storagepy) - 🌍 This is IPFS web3.storage unofficial library written in python. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 <br>
 <br>
