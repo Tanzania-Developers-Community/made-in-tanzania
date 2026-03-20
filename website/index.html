@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Made in Tanzania 🇹🇿</title>
+    <meta
+      name="description"
+      content="The canonical directory of software built by Tanzanian developers."
+    />
+    <meta property="og:title" content="Made in Tanzania 🇹🇿" />
+    <meta
+      property="og:description"
+      content="The canonical directory of software built by Tanzanian developers."
+    />
+    <meta name="theme-color" content="#08080a" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Grain overlay -->
+    <div class="grain"></div>
+
+    <!-- Ambient glows -->
+    <div class="ambient amber"></div>
+    <div class="ambient green"></div>
+    <div class="ambient blue"></div>
+
+    <!-- NAV -->
+    <nav class="nav" id="nav">
+      <div class="nav-inner">
+        <a href="#" class="nav-logo">
+          <span class="logo-flag">🇹🇿</span>
+          <span class="logo-text"
+            >made<span class="logo-accent">in</span>tanzania</span
+          >
+        </a>
+        <div class="nav-links">
+          <a
+            href="https://github.com/Tanzania-Developers-Community/made-in-tanzania"
+            target="_blank"
+            class="nav-link"
+            >GitHub</a
+          >
+          <a
+            href="https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/CONTRIBUTING.md"
+            target="_blank"
+            class="nav-btn"
+            >Add Project</a
+          >
+        </div>
+      </div>
+    </nav>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-tag">
+        <span class="tag-dot"></span>
+        Tanzania Developers Community
+      </div>
+      <h1 class="hero-title">
+        Software built<br />
+        <span class="title-tz">in Tanzania.</span>
+      </h1>
+      <p class="hero-sub">
+        A curated directory of open-source tools, libraries, and applications
+        built by Tanzanian developers — for the world.
+      </p>
+      <div class="hero-stats" id="heroStats">
+        <div class="stat">
+          <span class="stat-num" id="statProjects">—</span>
+          <span class="stat-label">projects</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" id="statContributors">—</span>
+          <span class="stat-label">contributors</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num" id="statTech">—</span>
+          <span class="stat-label">tech stacks</span>
+        </div>
+      </div>
+      <div class="hero-actions">
+        <a href="#projects" class="btn-primary">Browse projects</a>
+        <a
+          href="https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/CONTRIBUTING.md"
+          target="_blank"
+          class="btn-ghost"
+          >Contribute</a
+        >
+      </div>
+    </section>
+
+    <!-- SEARCH + FILTER -->
+    <section class="controls-section">
+      <div class="controls-inner">
+        <div class="search-wrap">
+          <span class="search-icon">⌕</span>
+          <input
+            type="text"
+            class="search-input"
+            id="searchInput"
+            placeholder="Search projects, authors, tech…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <kbd class="search-kbd" id="searchKbd">/</kbd>
+        </div>
+        <div class="filter-wrap" id="filterWrap">
+          <button class="filter-btn active" data-filter="all">All</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- PROJECTS GRID -->
+    <section class="projects-section" id="projects">
+      <div class="projects-grid" id="projectsGrid">
+        <div class="loading-state" id="loadingState">
+          <div class="loader"></div>
+          <span>Loading projects…</span>
+        </div>
+      </div>
+      <div class="empty-state hidden" id="emptyState">
+        <span class="empty-icon">🔍</span>
+        <p>No projects match your search.</p>
+        <button class="btn-ghost-sm" onclick="clearSearch()">
+          Clear search
+        </button>
+      </div>
+    </section>
+
+    <!-- LETTER NAV -->
+    <div class="letter-nav" id="letterNav"></div>
+
+    <!-- CONTRIBUTE CTA -->
+    <section class="cta-section">
+      <div class="cta-inner">
+        <div class="cta-flag">🇹🇿</div>
+        <h2 class="cta-title">Built something amazing?</h2>
+        <p class="cta-sub">
+          Tanzania is building. Add your project to the directory and let the
+          world discover it.
+        </p>
+        <a
+          href="https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/CONTRIBUTING.md"
+          target="_blank"
+          class="btn-primary"
+          >Submit your project →</a
+        >
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <div class="footer-inner">
+        <div class="footer-left">
+          <span class="footer-logo">🇹🇿 Made in Tanzania</span>
+          <span class="footer-by"
+            >by
+            <a
+              href="https://github.com/Tanzania-Developers-Community"
+              target="_blank"
+              >Tanzania Developers Community</a
+            ></span
+          >
+        </div>
+        <div class="footer-right">
+          <a
+            href="https://github.com/Tanzania-Developers-Community/made-in-tanzania"
+            target="_blank"
+            >GitHub</a
+          >
+          <a
+            href="https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/i18n/README.sw.md"
+            target="_blank"
+            >Kiswahili</a
+          >
+          <a
+            href="https://github.com/Tanzania-Developers-Community/made-in-tanzania/blob/main/CONTRIBUTING.md"
+            target="_blank"
+            >Contributing</a
+          >
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
