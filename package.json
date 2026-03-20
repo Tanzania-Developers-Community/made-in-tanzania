@@ -1,0 +1,13 @@
+{
+  "name": "made-in-tanzania",
+  "version": "1.0.0",
+  "description": "The canonical directory of Tanzanian software innovation",
+  "scripts": {
+    "build": "node scripts/generate-readme.js",
+    "validate": "node scripts/validate-projects.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
