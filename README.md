@@ -1,5 +1,3 @@
-
-
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 
 <img src="./img/banner/header.png" class="banner">
@@ -10,36 +8,8 @@ Your assistance in expanding our project repository is _greatly_ appreciated. We
 
 If you prefer not to initiate Pull Requests but would like to engage with us, you are welcome to reach out via 𝕏 by mentioning [@AlphaOlomi](https://twitter.com/AlphaOlomi). Your support and collaboration are invaluable to us. Thank you for your involvement in enhancing our project repository.
 
-<p align="center" class="nav-menu">
-  <a href="#A"><strong>A</strong></a>
-  <a href="#B"><strong>B</strong></a>
-  <a href="#C"><strong>C</strong></a>
-  <a href="#D"><strong>D</strong></a>
-  <a href="#E"><strong>E</strong></a>
-  <a href="#F"><strong>F</strong></a>
-  <a href="#G"><strong>G</strong></a>
-  <a href="#H"><strong>H</strong></a>
-  <a href="#I"><strong>I</strong></a>
-  <a href="#J"><strong>J</strong></a>
-  <a href="#K"><strong>K</strong></a>
-  <a href="#L"><strong>L</strong></a>
-  <a href="#M"><strong>M</strong></a>
-  <a href="#N"><strong>N</strong></a>
-  <a href="#O"><strong>O</strong></a>
-  <a href="#P"><strong>P</strong></a>
-  <a href="#Q"><strong>Q</strong></a>
-  <a href="#R"><strong>R</strong></a>
-  <a href="#S"><strong>S</strong></a>
-  <a href="#T"><strong>T</strong></a>
-  <a href="#U"><strong>U</strong></a>
-  <a href="#V"><strong>V</strong></a>
-  <a href="#W"><strong>W</strong></a>
-  <a href="#X"><strong>X</strong></a>
-  <a href="#Y"><strong>Y</strong></a>
-  <a href="#Z"><strong>Z</strong></a>
-</p>
-
 ## <a name="A"> </a>A
+
 - [Artemis](https://github.com/tahaafarooq/Artemis) - 🐍 A community package-based tool that simplifies carrying out scans, and pentests upon certain scope while performing security penetration testing and researches. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 ## <a name="D"> </a>D
@@ -48,6 +18,7 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 - [Djangoroku](https://github.com/maen08/djangoroku) - 🚀 Djangoroku is the Python library that helps to deploy Django application on Heroku more easily and fast. **By [@maen08](https://twitter.com/maentechie)**
 
 ## <a name="F"> </a>F
+
 - [Face Blur](https://github.com/TDC-Machine-Learning-AI-Club/face-blur) - ✨ An AI-driven solution for facial blurring. **By [@TDC-Machine-Learning-AI-Club](https://github.com/TDC-Machine-Learning-AI-Club)**
 - [Flutter Getx Starter](https://github.com/codeblocktz/Codeblock-Flutter-Getx-Starter) - 📱 A starter kit for beginners to learn with Getx pattern and GetStorage to architect a Flutter project. **By [@codeblocktz](https://github.com/codeblocktz)**
 - [Flutter SMS Gateway](https://github.com/codeblocktz/sms_gateway) - 📲 Flutter SMS Gateway is an Android app to send SMS. It supports sending delivery reports. **By [@codeblocktz](https://github.com/codeblocktz)**
@@ -96,12 +67,15 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 - [Tourism WebApp Django Bootstrap4](https://github.com/luqmantuke/TuksimAdventure) - ✈️ This is a tour/travel Webapp made with Python Django and Bootstrap4. **By [@Luqman Tuke](https://github.com/luqmantuke)**
 
 ## <a name="U"> </a>U
-- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. **By [@tahaafarooq](https://github.com/urchinsec)
+
+- [UrchinShell Web Shell](https://github.com/urchinsec/urchinshell) - 🖥️ A PHP multi-purpose web-shell that simplifies running shell commands on webserver. \*\*By [@tahaafarooq](https://github.com/urchinsec)
 
 ## <a name="W"> </a>W
+
 - [Web3 Storage IPFS Python API](https://github.com/tahaafarooq/web3storagepy) - 🌍 This is IPFS web3.storage unofficial library written in python. **By [@tahaafarooq](https://github.com/tahaafarooq)**
 
 ## <a name="Z"> </a>Z
+
 - [Zeno Pay PHP](https://github.com/ms3c/zenopay-php) - 💳 This is a PHP library for Zeno Pay. **By [@ms3c](https://github.com/ms3c)**
 
 <br>
