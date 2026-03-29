@@ -52,6 +52,7 @@ If you prefer not to initiate Pull Requests but would like to engage with us, yo
 - [Flutter Getx Starter](https://github.com/codeblocktz/Codeblock-Flutter-Getx-Starter) - 📱 A starter kit for beginners to learn with Getx pattern and GetStorage to architect a Flutter project. **By [@codeblocktz](https://github.com/codeblocktz)**
 - [Flutter SMS Gateway](https://github.com/codeblocktz/sms_gateway) - 📲 Flutter SMS Gateway is an Android app to send SMS. It supports sending delivery reports. **By [@codeblocktz](https://github.com/codeblocktz)**
 - [Flutter Facility Booking App](https://github.com/godopetza/facilitybookingappflutter) - 📲 This is a flutter app that allows residents to book facilities at their apartment building and communicate with the management office. **By [@godopetza](https://github.com/godopetza)**
+- [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ) - 📸 An automated attendance management system using Python and Computer Vision to streamline record-keeping in Tanzanian institutions. **By [@jemmziray-tech](https://github.com/jemmziray-tech)**
 
 ## <a name="G"> </a>G
 
